@@ -17,7 +17,7 @@ A serverless web application that generates interesting cloud computing facts us
 <details>
 <summary>📷 View More Infrastructure Screenshots</summary>
 
-![API Gateway](screenshots/image__1_.png)
+![API Gateway](website-files/screenshots/API-Gateway.png)
 *API Gateway with GET and OPTIONS methods*
 
 ![DynamoDB Table](screenshots/image__2_.png)
