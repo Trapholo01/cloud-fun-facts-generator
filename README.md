@@ -9,10 +9,10 @@ A serverless web application that generates interesting cloud computing facts us
 ## Screenshots
 
 ### Application Interface
-![Cloud Fun Facts Generator](screenshots/Cloud_Fun_Facts_Generator.png)
+![Cloud Fun Facts Generator](website-files/screenshots/app-UI.png)
 
 ### AWS Architecture
-![Architecture Diagram](screenshots/image.png)
+![Architecture Diagram](website-files/screenshots/architecture-diagram.png)
 
 <details>
 <summary>📷 View More Infrastructure Screenshots</summary>
@@ -20,16 +20,16 @@ A serverless web application that generates interesting cloud computing facts us
 ![API Gateway](website-files/screenshots/API-Gateway.png)
 *API Gateway with GET and OPTIONS methods*
 
-![DynamoDB Table](screenshots/image__2_.png)
+![DynamoDB Table](website-files/screenshots/DynamoDB.png)
 *DynamoDB table with 15 cloud facts*
 
-![Lambda Function](screenshots/image__5_.png)
+![Lambda Function](website-files/screenshots/Lambda.png)
 *Lambda function with API Gateway integration*
 
-![IAM Permissions](screenshots/image__4_.png)
+![IAM Permissions](website-files/screenshots/IAM-Role.png)
 *IAM role with Bedrock, Lambda, and DynamoDB access*
 
-![API Response](screenshots/image__7_.png)
+![API Response](website-files/screenshots/API-test.png)
 *Live API test showing successful response*
 
 </details>
