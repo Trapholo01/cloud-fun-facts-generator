@@ -243,7 +243,7 @@ def lambda_handler(event, context):
 
 ### API Endpoint
 ```
-https://r480h5wnab.execute-api.us-east-1.amazonaws.com/prod/funfact
+https://r480h5wnab.execute-api.us-east-1.amazonaws.com/funfact
 ```
 
 ### IAM Permissions Required
@@ -327,9 +327,6 @@ Items: 15 facts
 - [ ] Infrastructure as Code (Terraform)
 - [ ] Automated testing
 
-## Documentation
-
-For detailed setup instructions, troubleshooting, and architecture deep-dive, see the [Wiki](../../wiki) *(optional)*.
 
 ## License
 
